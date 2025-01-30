@@ -6,6 +6,4 @@
   font-style: normal;
 }
 
-.text{
-  font-size: 4rem;
-}
+@import "tailwindcss";
